@@ -6,3 +6,9 @@ assasas
 asasas
 db_user = admin
 db_password = admin
+text: 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
+apikey: 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
+text2: |
+  "Authorization": "Basic aW50ZXJuc2hpcDpjZGk="
+  username: aW50ZXJuc2hpcD # decodes to `internship`
+  password: pjZGk # decodes to `cdi
